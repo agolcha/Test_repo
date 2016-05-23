@@ -1,0 +1,158 @@
+body{
+	background:  url(bgCorelblue.jpg)
+				 no-repeat scroll center top;
+    height: 100%;
+    margin: 0px;
+}
+.main_container{
+	width: 1075px;
+	margin:auto;
+	background-color: rgb(0,0,0);
+}
+
+#corel_logo_img{
+	margin: 15px;
+}
+.price_container{
+	position: absolute;
+	z-index: 5;
+	vertical-align: middle;
+	margin-top:200px;
+	padding: 55px
+}
+#save100{
+	font-family:Tahoma; 
+	font-size:23px; color: 
+	rgb(50,98,149); 
+	margin: 0px; 
+	padding: 0px; 
+}
+#original_price{
+	font-family:Tahoma; 
+	font-size:16px; 
+	color: rgb(153,153,153); 
+	margin-top: 10px; 
+	margin-bottom: 10px;
+}
+#spec_price{
+	font-family:Tahoma; 
+	font-size:22px; 
+	margin-top: 10px; 
+	margin-bottom: 10px; 
+}
+.button{
+	background-color: rgb(50,97,149); 
+	padding: 5px 15px 5px 15px;
+	color: white;
+	font-size: 16px;
+	font-family: Tahoma;
+}
+a{
+	color: rgb(16,135,255);
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+#banner_img{
+	width: 1075px
+}
+.dell_conteiner{
+	margin-top: -10px;
+	background-color: rgb(50,97,149);
+	padding: 10px;
+}
+#dell_logo{
+	float: left;
+	margin-top: 20px;
+	margin-right: 5px;
+}
+.dell_header{
+	color: white;
+	font-family:Arial;
+	font-size: 24px
+}
+.dell_text{
+	color: white;
+	font-family: Tahoma;
+	font-size: 13px;
+}
+.list_container{
+	background-color:white;
+	margin-bottom:-25px; 
+}
+#list_header_text{
+	color: black;
+	font-size: 30px;
+	font-family:Arial;
+	margin : 0px;
+	padding: 40px 20px 25px 40px
+}
+p{
+	font-family:Tahoma;
+	color: rgb(73,77,86);
+	font-size: 16px;
+}
+ul{
+	margin: 0;
+	list-style-type: none;
+}
+.feature_1 {
+	display: inline;
+}
+.feature_container{
+	display: inline-block;
+	vertical-align: top;
+	width: 200px;
+}
+.feature_header{
+	font-size: 20px;
+	font-family:Tahoma;
+	display: block;
+}
+.feature_2_3_4{
+display: inline;
+margin-left: 55px;
+}
+.feature_container_2{
+	display: inline-block;
+	vertical-align: top;
+	width: 470px;
+}
+#footer{
+	background-color: rgb(235,235,235); 
+	height: 125px; 
+	padding: 10px; 
+	margin-top: 20px;
+}
+#footer_img{
+	float: right;
+	margin-top: -33px;
+	padding-right: 40px;
+}
+#footer_text{
+	font-family: Tahoma; 
+	color: rgb(73,77,86);
+	font-size: 17px;
+	padding-left: 60px;
+	margin-bottom: 1px;
+}
+.button_2{
+	background-color: rgb(50,97,149); 
+	padding: 5px 15px 5px 15px;
+	color: white;
+	font-size: 16px;
+	font-family: Tahoma;
+	margin-left: 60px;
+}
+.cop{
+	background-color: rgb(0,0,0);
+	margin-top: 30px;
+	padding: 10px;
+	}
+.cop_text{
+	color: rgb(126,130,140);
+	margin-left: 10px;
+	font-size: 12px;
+	font-family:Tahoma;
+}
